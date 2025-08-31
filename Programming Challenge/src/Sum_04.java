@@ -1,3 +1,5 @@
+/* Create a program to add two numbers */
+
 import java.util.Scanner;
 
 public class Sum_04 {

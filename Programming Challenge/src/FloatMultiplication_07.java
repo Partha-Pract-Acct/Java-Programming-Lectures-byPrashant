@@ -1,3 +1,5 @@
+/* Create a program to calculate product of two floating points numbers */
+
 import java.util.Scanner;
 
 public class FloatMultiplication_07 {
@@ -11,7 +13,6 @@ public class FloatMultiplication_07 {
         double num2 = input.nextDouble();
 
         double mul = num1 * num2;
-
         System.out.println("Result is: " + mul);
     }
 }

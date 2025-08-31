@@ -1,3 +1,5 @@
+/* Create a program to input name of the person and respond with ”Welcome NAME to the Java” */
+
 import java.util.Scanner;
 
 public class Welcome_03 {

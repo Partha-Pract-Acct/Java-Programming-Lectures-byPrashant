@@ -1,3 +1,5 @@
+/* Create a program that takes two numbers and shows result of all arithmetic operators (+,-,*,/,%) */
+
 import java.util.Scanner;
 
 public class Arithmetic_06 {
