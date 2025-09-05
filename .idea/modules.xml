@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Lecture Code/01_data_types_variables_and_inpu/01_data_types_variables_and_inpu.iml" filepath="$PROJECT_DIR$/Lecture Code/01_data_types_variables_and_inpu/01_data_types_variables_and_inpu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lecture Code/02_whileLoop_methods_arrays/02_whileLoop_methods_arrays.iml" filepath="$PROJECT_DIR$/Lecture Code/02_whileLoop_methods_arrays/02_whileLoop_methods_arrays.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java.iml" filepath="$PROJECT_DIR$/Java.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lecture Code/Lecture Code.iml" filepath="$PROJECT_DIR$/Lecture Code/Lecture Code.iml" />
       <module fileurl="file://$PROJECT_DIR$/Programming Challenge/Programming Challenge.iml" filepath="$PROJECT_DIR$/Programming Challenge/Programming Challenge.iml" />
