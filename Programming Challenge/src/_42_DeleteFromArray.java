@@ -11,6 +11,7 @@ public class _42_DeleteFromArray {
         System.out.print("Enter the number you want to delete: ");
         int numToDeleter = input.nextInt();
         int[] newArr = deleteNumber(numArr, numToDeleter);
+        System.out.println("Here is your new array: ");
         ArrayUtility.displayArray(newArr);
     }
 
